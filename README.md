@@ -16,3 +16,7 @@ To monitor the serial port:
 Enjoy!
 
 
+# Case design for 3D printing
+
+Take a look at this [link](https://www.thingiverse.com/thing:64008),
+look like a good one.
